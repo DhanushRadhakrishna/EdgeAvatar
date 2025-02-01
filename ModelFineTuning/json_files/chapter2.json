@@ -1,0 +1,328 @@
+[
+    {
+        "instruction": "What revision has contemporary physics brought to man's conception of the universe?",
+        "response": "There is a general awareness that contemporary physics has brought about an important revision in man's conception of the universe and his relation to it. The suggestion has been made that this revision pierces to the basis of man's fate and freedom, affecting even his conception of his capacity to control his own destiny. In no portion of physics does this suggestion show itself more pointedly than in the principle of indeterminacy of quantum mechanics."
+    },
+    {
+        "instruction": "What is the significance of the principle of indeterminacy in quantum mechanics?",
+        "response": "The author of this book is the discoverer of this principle. In fact, it usually bears his name. Hence, no one is more competent to pass judgment on what it means than he. In his previous book, *The Physical Principles of the Quantum Theory* Heisenberg gave an exposition of the theoretical interpretation, experimental meaning and mathematical apparatus of quantum mechanics for professional physicists."
+    },
+    {
+        "instruction": "What philosophical implications does Heisenberg explore in this book?",
+        "response": "Here he pursues this and other physical theories with respect to their philosophical implications and some of their likely social consequences for the layman. More specifically, he attempts here to raise and suggest answers to three questions: (1) What do the experimentally verified theories of contemporary physics affirm? (2) How do they permit or require man to think of himself in relation to his universe? (3) How is this new way of thinking, which is the creation of the modern West, going to affect other parts of the world?"
+    },
+    {
+        "instruction": "How does Heisenberg address the impact of modern physics on non-Western societies?",
+        "response": "The third of these questions is dealt with briefly by Heisenberg at the beginning and end of this inquiry. The brevity of his remarks should not lead the reader to pass lightly over their import. As he notes, whether we like it or not, modern ways are going to alter and in part destroy traditional customs and values."
+    },
+    {
+        "instruction": "What is the assumption about introducing modern science to non-Western societies, and why is it flawed?",
+        "response": "It is frequently assumed by native leaders of non-Western societies, and also often by their Western advisers, that the problem of introducing modern scientific instruments and ways into Asia, the Middle East and Africa is merely that of giving the native people their political independence and then providing them with the funds and the practical instruments. This facile assumption overlooks several things. First, the instruments of modern science derive from its theory and require a comprehension of that theory for their correct manufacture or effective use. Second, this theory in turn rests on philosophical, as well as physical, assumptions."
+    },
+    {
+        "instruction": "Why is it important to understand the philosophical implications of modern physics in non-Western societies?",
+        "response": "When comprehended, these philosophical assumptions generate a personal and social mentality and behavior quite different from, and at points incompatible with, the family, caste and tribally centered mentality and values of the native Asian, Middle Eastern or African people. In short, one cannot bring in the instruments of modern physics without sooner or later introducing its philosophical mentality, and this mentality, as it captures the scientifically trained youth, upsets the old familial and tribal moral loyalties."
+    },
+    {
+        "instruction": "How does Heisenberg suggest modern youth in non-Western societies should approach the integration of physics and philosophy?",
+        "response": "If unnecessary emotional conflict and social demoralization are not to result, it is important that the youth understand what is happening to them. This means that they must see their experience as the coming together of two different philosophical mentalities, that of their traditional culture and that of the new physics. Hence, the importance for everyone of understanding the philosophy of the new physics."
+    },
+    {
+        "instruction": "Does Heisenberg believe physics is independent of philosophy?",
+        "response": "But it may be asked, Isn't physics quite independent of philosophy? Hasn't modern physics become effective only by dropping philosophy? Clearly, Heisenberg answers both of these questions in the negative."
+    },
+    {
+        "instruction": "What was Newton's view on the relationship between experimental data and theory?",
+        "response": "Newton left the impression that there were no assumptions in his physics which were not necessitated by the experimental data. This occurred when he suggested that he made no hypotheses and that he had deduced his basic concepts and laws from the experimental findings."
+    },
+    {
+        "instruction": "What is the issue with Newton's conception of the relationship between theory and experimental data?",
+        "response": "Were this conception of the relation between the physicist's experimental observations and his theory correct, Newton's theory would never have required modification, nor could it ever have implied consequences which experiment does not confirm. Being implied by the facts, it would be as indubitable and final as they are."
+    },
+        {
+            "instruction": "What does Heisenberg briefly address regarding the impact of modern ways on traditional values?",
+            "response": "The third of these questions is dealt with briefly by Heisenberg at the beginning and end of this inquiry. The brevity of his remarks should not lead the reader to pass lightly over their import. As he notes, whether we like it or not, modern ways are going to alter and in part destroy traditional customs and values."
+        },
+        {
+            "instruction": "What is the common assumption about introducing modern scientific instruments into non-Western societies?",
+            "response": "It is frequently assumed by native leaders of non-Western societies, and also often by their Western advisers, that the problem of introducing modern scientific instruments and ways into Asia, the Middle East and Africa is merely that of giving the native people their political independence and then providing them with the funds and the practical instruments."
+        },
+        {
+            "instruction": "Why is the assumption about introducing modern science into non-Western societies flawed?",
+            "response": "This facile assumption overlooks several things. First, the instruments of modern science derive from its theory and require a comprehension of that theory for their correct manufacture or effective use. Second, this theory in turn rests on philosophical, as well as physical, assumptions."
+        },
+        {
+            "instruction": "What effect does the philosophical assumptions of modern science have on traditional societies?",
+            "response": "When comprehended, these philosophical assumptions generate a personal and social mentality and behavior quite different from, and at points incompatible with, the family, caste and tribally centered mentality and values of the native Asian, Middle Eastern or African people."
+        },
+        {
+            "instruction": "What is the consequence of introducing modern scientific instruments without understanding the underlying philosophy?",
+            "response": "In short, one cannot bring in the instruments of modern physics without sooner or later introducing its philosophical mentality, and this mentality, as it captures the scientifically trained youth, upsets the old familial and tribal moral loyalties."
+        },
+        {
+            "instruction": "Why is it important for youth in non-Western societies to understand the impact of modern physics on their worldview?",
+            "response": "If unnecessary emotional conflict and social demoralization are not to result, it is important that the youth understand what is happening to them. This means that they must see their experience as the coming together of two different philosophical mentalities, that of their traditional culture and that of the new physics."
+        },
+        {
+            "instruction": "Why is understanding the philosophy of modern physics important for everyone?",
+            "response": "Hence, the importance for everyone of understanding the philosophy of the new physics."
+        },
+            {
+                "instruction": "Does Heisenberg believe physics is independent of philosophy?",
+                "response": "But it may be asked, Isn't physics quite independent of philosophy? Hasn't modern physics become effective only by dropping philosophy? Clearly, Heisenberg answers both of these questions in the negative."
+            },
+            {
+                "instruction": "What was Newton's view on the relationship between experimental data and theory?",
+                "response": "Newton left the impression that there were no assumptions in his physics which were not necessitated by the experimental data. This occurred when he suggested that he made no hypotheses and that he had deduced his basic concepts and laws from the experimental findings."
+            },
+            {
+                "instruction": "What did the Michelson-Morley experiment reveal about Newton's assumptions?",
+                "response": "In 1885, however, an experiment performed by Michelson and Morley revealed a fact which should not exist were the theoretical assumptions of Newton the whole truth. This made it evident that the relation between the physicist's experimental facts and his theoretical assumptions is quite other than what Newton had led many modern physicists to suppose."
+            },
+            {
+                "instruction": "How did the experiments on radiation from black bodies affect Newton's theory?",
+                "response": "When, some ten years later, experiments on radiation from black bodies enforced an additional reconstruction in Newton's way of thinking about his subject matter, this conclusion became inescapable."
+            },
+            {
+                "instruction": "How does quantum mechanics differ from Newton's and Einstein's theories in terms of probability?",
+                "response": "Expressed positively, this means that the theory of physics is neither a mere description of experimental facts nor something deducible from such a description; instead, as Einstein has emphasized, the physical scientist only arrives at his theory by speculative means. The deduction in his method runs not from facts to the assumptions of the theory but from the assumed theory to the facts and the experimental data."
+            },
+            {
+                "instruction": "Why is the concept of probability important in quantum mechanics but not in Newton's mechanics or Einstein's relativity?",
+                "response": "When we do this for (a) Newton's or Einstein's mechanics and for (b) quantum mechanics, we discover that the concept of probability or chance enters into the definition of the state of a physical system, and, in this sense, into its subject matter, in quantum mechanics, but does not do so in Newton's mechanics or Einstein's theory of relativity."
+            },
+            {
+                "instruction": "How does Heisenberg’s philosophy of physics relate to the concept of potentiality?",
+                "response": "This undoubtedly is what Heisenberg means when he writes in this book that quantum theory has brought the concept of potentiality back into physical science."
+            },
+            {
+                "instruction": "What was Einstein's objection to quantum mechanics regarding the concept of probability?",
+                "response": "It is also, without question, what Einstein has in mind when he objects to quantum theory. He expressed this objection by saying: 'God does not play dice.' The point of this statement is that the game of dice rests on the laws of chance, and Einstein believed that the latter concept finds its scientific meaning solely in the epistemological limitations of the finite knowing mind in its relation to the omnicomplete object of scientific knowledge."
+            },
+                {
+                    "instruction": "What is the key difference between quantum mechanics and previous physical theories (Newton's and Einstein's)?",
+                    "response": "Put more concretely, this difference between quantum mechanics and previous physical theories may be expressed as follows: In Newton's and Einstein's theory, the state of any isolated mechanical system at a given moment of time is given precisely when only numbers specifying the position and momentum of each mass in the system are empirically determined at that moment of time; no numbers referring to a probability are present. In quantum mechanics the interpretation of an observation of a system is a rather complicated procedure. The observation may consist in a single reading, the accuracy of which has to be discussed, or it may comprise a complicated set of data, such as the photograph of the water droplets in a cloud chamber; in any case, the result can be stated only in terms of a probability distribution concerning, for instance, the position or momentum of the particles of the system."
+                },
+                {
+                    "instruction": "How does quantum mechanics use probability to predict future states of a system?",
+                    "response": "The theory then predicts the probability distribution for a future time. The theory is not experimentally verified when that future state arrives if merely the momentum or position numbers in a particular observation lie within the predicted range. The same experiment with the same initial conditions must be repeated many times, and the values of position or momentum, which may be different in each observation, must similarly be found to be distributed according to the predicted probability distribution."
+                },
+                {
+                    "instruction": "What is the crucial difference between quantum mechanics and Newton's or Einstein's mechanics?",
+                    "response": "In short, the crucial difference between quantum mechanics and Einstein's or Newton's mechanics centers in the definition of a mechanical system at any moment of time, and this difference is that quantum mechanics introduces the concept of probability into its definition of state and the mechanics of Newton and Einstein does not."
+                },
+                {
+                    "instruction": "Did probability play a role in Newton's and Einstein's mechanics?",
+                    "response": "This does not mean that probability had no place in Newton's or Einstein's mechanics. Its place was, however, solely in the theory of errors by means of which the accuracy of the Yes or No verification or nonconfirmation of the prediction of the theory was determined. Hence, the concept of probability and chance was restricted to the epistemological relation of the scientist in the verification of what he knows; it did not enter into the theoretical statement of what he knows."
+                },
+                {
+                    "instruction": "How does Einstein's dictum 'God does not play dice' relate to Newton's and Einstein's mechanics?",
+                    "response": "Thus, Einstein's dictum that 'God does not play dice' was satisfied in his two theories of relativity and in Newton's mechanics."
+                },
+                {
+                    "instruction": "What is the debate between Einstein and Heisenberg regarding the role of probability in physics?",
+                    "response": "Is there any way of deciding between Einstein's contention and that of Heisenberg and other quantum theorists? Many answers have been given to this question. Some physicists and philosophers, emphasizing operational definitions, have argued that, since all physical theories, even classical ones, entail human error and uncertainties, there is nothing to be decided between Einstein and the quantum theorists."
+                },
+                {
+                    "instruction": "What is the flaw in the argument that probability only enters quantum mechanics in an operational sense?",
+                    "response": "This, however, is (a) to overlook the presence of axiomatically constructed, constitutive theoretic definitions as well as theory-of-errors, operational definitions in scientific method and (b) to suppose that the concept of probability and the even more complex uncertainty relation enter into quantum mechanics only in the operational-definitional sense. Heisenberg shows that the latter supposition is false."
+                },
+                    {
+                        "instruction": "What is the argument against introducing probability into the definition of a mechanical system?",
+                        "response": "Other scientists and philosophers, going to the opposite extreme, have argued that, merely because there is uncertainty in predicting certain phenomena, this constitutes no argument whatever for the thesis that these phenomena are not completely determined. This argument combines the statical problem of defining the state of a mechanical system at a given time with the dynamical or causal problem of predicting changes in the state of the system through time."
+                    },
+                    {
+                        "instruction": "How does quantum mechanics introduce probability into its definition of a mechanical system?",
+                        "response": "But the concept of probability in quantum theory enters only into its statics, i.e., its theoretical definition of state. The reader will find it wise, therefore, to keep distinct these two components, i.e., the statical theoretical definition-of-state component and the dynamic, or causal, theoretical change-of-state-through-time component."
+                    },
+                    {
+                        "instruction": "Why does Heisenberg introduce probability into the theoretical definition of state in quantum mechanics?",
+                        "response": "But, why, it may be asked, should the concept of probability be introduced into the theoretic definition of the state of a mechanical system at any statical moment t1 in principle? This book makes it clear that the answer to these questions is as follows: The reason for the procedure of quantum mechanics is thesis (1) above, which Einstein himself also accepts. Thesis (1) is that we know the object of scientific knowledge only by the speculative means of axiomatic theoretic construction or postulation; Newton's suggestion that the physicist can deduce our theoretical concepts from the experimental data being false."
+                    },
+                    {
+                        "instruction": "How does the experimental evidence support the need for probability in quantum mechanics?",
+                        "response": "Now, it happens that when we theoretically and in principle define the state of a mechanical system for subatomic phenomena in terms solely of numbers referring to position and momentum, as Einstein would have us do, and deduce the consequences for radiation from black bodies, this theoretical assumption concerning the state of a mechanical system and the subject matter of atomic physics is shown to be false by experimental evidence. The experimental facts simply are not what the theory calls for."
+                    },
+                    {
+                        "instruction": "How does the introduction of Planck's constant modify traditional theory in quantum mechanics?",
+                        "response": "When, however, the traditional theory is modified with the introduction of Planck's constant and the addition in principle of the second set of numbers referring to the probability that the attached position-momentum numbers will be found, from which the uncertainty principle follows, the experimental data confirm the new theoretical concepts and principles."
+                    },
+                    {
+                        "instruction": "What is the analogy between quantum mechanics and Einstein's theory regarding experimental data?",
+                        "response": "In short, the situation in quantum mechanics with respect to experiments on black-body radiation is identical with that faced by Einstein with respect to the Michelson-Morley experiment. In both cases, only by introducing the new theoretical assumption in principle is physical theory brought into accord with the experimental facts."
+                    },
+                    {
+                        "instruction": "What does Heisenberg argue about determinism and causality in quantum mechanics?",
+                        "response": "To assert that, notwithstanding quantum mechanics, the positions and momenta of subatomic masses are 'really' sharply located in space and time as designated by one pair of numbers only and, hence, completely deterministic causally, as Einstein and the aforementioned philosophers of science would have one do, is to affirm a theory concerning the subject matter of physical knowledge which experiments on black-body radiation have shown to be false in the sense that a deductive experimental consequence of this theory is not confirmed."
+                    },
+                    {
+                        "instruction": "Is it possible that a new theory could be discovered that does not involve probability in the definition of state?",
+                        "response": "It does not follow, of course, that some new theory compatible with the foregoing experimental facts might not be discovered in which the concept of probability does not enter in principle into its definition of state. Professor Norbert Wiener, for example, believes that he has clues to the direction such a theory might take."
+                    },
+                    {
+                        "instruction": "What does Heisenberg's quantum theory imply about scientific knowledge?",
+                        "response": "Nevertheless, until such an alternative theory is presented, anyone, who does not claim to possess some a priori or private source of information concerning what the object of scientific knowledge must be, has no alternative but to accept the definition of state of quantum theory and to affirm with the author of this book that it restores the concept of potentiality to the object of modern scientific knowledge."
+                    },
+                    {
+                        "instruction": "What is Heisenberg's view on causality and determinism in relation to quantum mechanics?",
+                        "response": "What of the status of causality and determinism in quantum mechanics? Probably the interest of the layman and the humanist in this book depends most on its answer to this question. If this answer is to be understood, the reader must pay particular attention to Heisenberg's description of (a) the aforementioned definition of state by recourse to the concept of probability and (b) the Schrodinger time-equation."
+                    },
+                    {
+                        "instruction": "Why is it important for readers to understand Heisenberg's definitions of causality and determinism?",
+                        "response": "The reader must also make sure, and this is the most difficult task of all, that the meaning of the words 'causality' and 'determinism' in his mind when he asks the above question is identical with the meaning these words have in Heisenberg's mind when he specifies the answer. Otherwise, Heisenberg will be answering a different question from the one the reader is asking and a complete misunderstanding upon the reader's part will occur."
+                    },
+                    {
+                        "instruction": "How does the concept of causality differ among physicists?",
+                        "response": "The situation is further complicated by the fact that modern physics permits the concept of causality to have two different, scientifically precise meanings, the one stronger than the other, and there is no agreement among physicists about which one of these two meanings the word 'causality' is to be used to designate."
+                    },
+                    {
+                        "instruction": "What is the distinction between causality and determinism in quantum mechanics?",
+                        "response": "Hence, some physicists and philosophers of science use the word to designate the stronger of the two meanings. There is evidence, at times at least, that this is Professor Heisenberg's usage in this book. Other physicists and philosophers, including the writer of this Introduction, use the word 'causality' to designate the weaker of the two meanings and the word 'determinism' to designate the stronger meaning. When the former usage is followed, the words 'causality' and 'determinism' become synonymous. When the second usage is followed, every deterministic system is a causal system, but not every causal system is deterministic."
+                    },
+                        {
+                            "instruction": "Why is there confusion regarding the concept of causality in quantum mechanics?",
+                            "response": "Great confusion has entered into previous discussion of this topic because frequently neither the person who asks the question nor the physicist who has answered it has been careful to specify in either question or answer whether he is using the word 'causality' in its weaker or in its stronger modern scientific meaning."
+                        },
+                        {
+                            "instruction": "What happens when causality in quantum mechanics is not specified clearly?",
+                            "response": "If one asks 'Does causality hold in quantum mechanics?' not specifying whether one is asking about causality in its stronger or in its weaker sense, one then gets apparently contradictory answers from equally competent physicists. One physicist, taking the word 'causality' in its stronger sense, quite correctly answers 'No.' The other physicist, taking 'causality' in its weaker sense, equally correctly answers 'Yes.'"
+                        },
+                        {
+                            "instruction": "How can the question of causality in quantum mechanics be clarified?",
+                            "response": "The answer of quantum mechanics becomes unequivocal the moment one makes the question and the answer unambiguous by specifying which meaning of 'causality' one is talking about."
+                        },
+                        {
+                            "instruction": "How is causality understood differently in layman's terms versus in modern physics?",
+                            "response": "One may say 'The stone hit the window and caused the glass to break.' In this use of 'causality' it is thought of as a relation between objects, i.e., between the stone and the windowpane. The scientist expresses the same thing in a different way. He describes the foregoing set of events in terms of the state of the stone and the windowpane at the earlier time t1 when the stone and the windowpane were separated and the state of this same system of two objects at the later time t2 when the stone and the windowpane collided."
+                        },
+                        {
+                            "instruction": "What are the two components of causality in quantum mechanics that must be distinguished?",
+                            "response": "It is important, therefore, to become clear about different possible meanings of the word 'causality.' These two components are: (1) The state-function which defines the state of any physical system at any specific time t. (2) The Schrodinger time-equation which relates the state of the physical system at the earlier time t1 to its different state at any specifiable later time t2."
+                        },
+                        {
+                            "instruction": "What are the possible types of relations between the states of a physical system at different times?",
+                            "response": "The weakest possible case would be that of mere temporal succession with no necessary connection whatever and with not even a probability, however small, that the specifiable initial state will be followed in time by a specifiable future state. Hume gives us reasons for believing that the relation between the sensed states of immediately sensed natural phenomena is of this character."
+                        },
+                        {
+                            "instruction": "How does quantum mechanics reconcile the concept of potentiality with modern physics?",
+                            "response": "The situation is even more complicated, as the reader will find, than even these introductory distinctions between the different types of causation indicate. These distinctions should suffice, also, to enable one to grasp the tremendous philosophical significance of the introduction of the weaker type of mechanical causation into modern physics, which has occurred in quantum mechanics. Its significance consists in reconciling the concept of objective, and in this sense ontological, potentiality of Aristotelian physics with the concept of mechanical causation of modern physics."
+                        },
+                        {
+                            "instruction": "What does Heisenberg's book say about the role of potentiality in quantum mechanics?",
+                            "response": "This book is important because it contains Heisenberg's answer to this criticism of his principle of indeterminacy and of quantum theory by Einstein and by others. In understanding this answer, the reader must pay particular attention to Heisenberg's description of (a) the aforementioned definition of state by recourse to the concept of probability and (b) the Schrodinger time-equation."
+                        },
+                        {
+                            "instruction": "What distinction does Heisenberg make about mechanical causality and determinism in quantum mechanics?",
+                            "response": "The situation is even more complicated than these introductory distinctions between different types of causation indicate. Heisenberg introduces the concept of mechanical causality, but whereas causality in Newton's and Einstein's physics is of the stronger type and hence both mechanical and deterministic, in quantum mechanics it is of the weaker causal type and hence mechanical but not deterministic."
+                        },
+                        {
+                            "instruction": "How does quantum mechanics relate to Newtonian and Einsteinian mechanics?",
+                            "response": "Quantum mechanics with its basically weaker type of causality gives rise, as a special case of itself, to Newtonian and Einsteinian mechanics with their stronger type of causality and determinism. Consequently, for human beings considered merely as gross common-sense objects, the stronger type of causality holds and, hence, determinism reigns also."
+                        },
+                        {
+                            "instruction": "How does quantum mechanics affect our understanding of causality in human behavior?",
+                            "response": "Nevertheless, subatomic phenomena are scientifically significant in man. To this extent, at least, the causality governing him is of the weaker type, and he embodies both mechanical fate and potentiality."
+                        },
+                        {
+                            "instruction": "How can quantum mechanics be reconciled with moral, political, and legal science?",
+                            "response": "There is a scientific, philosophical, and moral problem in reconciling mechanical causation with the teleological causation present in human moral, political, and legal purposes. Quantum mechanics gives us a new understanding of causality and potentiality, which may help us understand how human behavior is affected by both mechanical causation and moral purposes."
+                        },
+                            {
+                                "instruction": "What is Heisenberg's view on the Cartesian concept of mental substances in light of complementarity?",
+                                "response": "Heisenberg's conclusion concerning Descartes results from his generalization of the principle of complementarity beyond physics, first, to the relation between common-sense biological concepts and mathematical physical concepts and, second, to the body-mind problem. The result of this generalization is that the Cartesian theory of mental substances comes off very much better in this book, as does the concept of substance generally, than is the case in any other book on the philosophy of contemporary physics which this writer knows."
+                            },
+                            {
+                                "instruction": "How does Heisenberg view the relevance of common-sense concepts in the context of quantum theory?",
+                                "response": "Generally speaking, Heisenberg argues that there is no compelling reason to throw away any of the common-sense concepts of either biology or mathematical physics, after one knows the refined concepts that lead to the complete clarification of the problems in atomic physics. Because the latter clarification is complete, it is relevant only to a very limited range of problems within science and cannot enable us to avoid using many concepts at other places that would not stand critical analysis of the type carried out in quantum theory."
+                            },
+                            {
+                                "instruction": "What is Heisenberg's stance on the role of complementarity in understanding physical concepts?",
+                                "response": "Since the ideal of complete clarification cannot be achieved and it is important that we should not be deceived about this point one may indulge in the usage of common-sense concepts if it is done with sufficient care and caution. In this respect, certainly, complementarity is a very useful scientific concept."
+                            },
+                            {
+                                "instruction": "What two points are critical to understanding Heisenberg's views on complementarity and the body-mind relationship?",
+                                "response": "First, the principle of complementarity and the present validity of the Cartesian and common-sense concepts of body and mind stand and fall together. Second, it may be that both these notions are merely convenient stepladders which should now be, or must eventually be, thrown away."
+                            },
+                            {
+                                "instruction": "What does Heisenberg suggest about the theory of mind and the Cartesian language?",
+                                "response": "In the case of the theory of mind at least, the stepladder will have to remain until by its use we find the more linguistically exact and empirically satisfactory theory that will permit us to throw the Cartesian language away."
+                            },
+                            {
+                                "instruction": "How does Heisenberg's approach to the theory of mind differ from piecemeal theories?",
+                                "response": "To be sure, piecemeal theories of mind which do not appeal to the notion of substance now exist, but none of their authors, unless it be Whitehead, has shown how the language of this piecemeal theory can be brought into commensurate and compatible relationship with the scientific language of the other facts of human knowledge."
+                            },
+                            {
+                                "instruction": "How does Heisenberg view the scientific theory of mind in relation to the body?",
+                                "response": "It is likely, therefore, that anyone, whether he be a professional physicist or philosopher or the lay reader, who may think he knows better than Heisenberg on these important matters, runs the grave risk of supposing he has a scientific theory of mind in its relation to body, when in fact this is not the case."
+                            },
+                            {
+                                "instruction": "What does Heisenberg's philosophy of contemporary physics focus on?",
+                                "response": "Up to this point we have directed attention, with but two exceptions, to what the philosophy of contemporary physics has to say about the object of scientific knowledge qua object, independent of its relation to the scientist as knower. In short, we have been concerned with its ontology."
+                            },
+                            {
+                                "instruction": "What are the three components of the epistemology of contemporary physics?",
+                                "response": "This philosophy also has its epistemological component. This component falls into three parts: (1) The relation between (a) the directly observed data given to the physicist as inductive knower in his observations or his experiments and (b) the speculatively proposed, indirectly verified, axiomatically constructed postulates of his theory. (2) The role of the concept of probability in the theory of errors, by means of which the physicist defines the criterion for judging how far his experimental findings can depart, due to errors of human experimentation, from the deduced consequences of the postulates of the theory and still be regarded as confirming the theory. (3) The effect of the experiment being performed upon the object being known."
+                            },
+                            {
+                                "instruction": "What is the difference between the epistemology of modern physics before and after quantum mechanics?",
+                                "response": "In modern physical theory, previous to quantum mechanics, (3) played no role whatever. Hence, the epistemology of modern physics was then completely specified by (1) and (2) alone. In quantum mechanics, however, (3) (as well as (1) and (2)) becomes very important. The very act of observing alters the object being observed when its quantum numbers are small."
+                            },
+                            {
+                                "instruction": "What conclusion does Heisenberg draw regarding the relation between the object, the observing physicist, and the rest of the universe?",
+                                "response": "From this fact Heisenberg draws a very important conclusion concerning the relation between the object, the observing physicist, and the rest of the universe. This conclusion can be appreciated if attention is directed to the following key points."
+                            },
+                            {
+                                "instruction": "How does Heisenberg address the concept of an isolated system in quantum mechanics?",
+                                "response": "It may be recalled that in some of the definitions of mechanical causality given earlier in this Introduction, the qualifying words 'for an isolated system' were added; elsewhere it was implicit. This qualifying condition can be satisfied in principle in Newtonian and Einsteinian mechanics, and also in practice by making more and more careful observations and refinements in one's experimental instruments."
+                            },
+                            {
+                                "instruction": "What does the introduction of probability in quantum mechanics imply about the concept of an isolated system?",
+                                "response": "The introduction of the concept of probability into the definition of state of the object of scientific knowledge in quantum mechanics rules out, however, in principle, and not merely in practice due to the imperfections of human observation and instruments, the satisfying of the condition that the object of the physicist's knowledge is an isolated system."
+                            },
+                            {
+                                "instruction": "What does Heisenberg say about including the experimental apparatus in the physical system?",
+                                "response": "Heisenberg shows also that the including of the experimental apparatus and even of the eye of the observing scientist in the physical system which is the object of the knower's knowledge does not help, since, if quantum mechanics be correct, the states of all objects have to be defined in principle by recourse to the concept of probability."
+                            },
+                            {
+                                "instruction": "What is the only way to satisfy the condition for an isolated system in quantum mechanics?",
+                                "response": "Consequently, only if the whole universe is included in the object of scientific knowledge can the qualifying condition 'for an isolated system' be satisfied for even the weaker form of mechanical causation."
+                            },
+                            {
+                                "instruction": "How does Heisenberg's philosophy of contemporary physics differ in terms of epistemology and ontology?",
+                                "response": "Clearly, the philosophy of contemporary physics is shown by this book to be as novel in its epistemology as it is in its ontology. Indeed, it is from the originality of its ontology—the consistent unification of potentiality and mechanical causality in its weaker form—that the novelty of its epistemology arises."
+                            },
+                            {
+                                "instruction": "What does an analysis of the experimentally verified theories of modern physics reveal about the object of human knowledge?",
+                                "response": "Unquestionably, one other thing is clear. An analysis of the specific experimentally verified theories of modern physics with respect to what they say about the object of human knowledge and its relation to the human knower exhibits a very rich and complex ontological and epistemological philosophy which is an essential part of the scientific theory and method itself."
+                            },
+                            {
+                                "instruction": "What does Heisenberg say about the neutrality of physics in terms of epistemology and ontology?",
+                                "response": "Hence, physics is neither epistemologically nor ontologically neutral. Deny any one of the epistemological assumptions of the physicist's theory and there is no scientific method for testing whether what the theory says about the physical object is true, in the sense of being empirically confirmed."
+                            },
+                            {
+                                "instruction": "What does Heisenberg suggest happens if any ontological assumptions are denied in physics?",
+                                "response": "Deny any one of the ontological assumptions and there is not enough content in the axiomatically constructed mathematical postulates of the physicist's theory to permit the deduction of the experimental facts which it is introduced to predict, co-ordinate consistently and explain."
+                            },
+                            {
+                                "instruction": "What does Heisenberg's verification of contemporary physics imply about its epistemological and ontological philosophy?",
+                                "response": "Hence, to the extent that experimental physicists assure us that their theory of contemporary physics is indirectly and experimentally verified, they ipso facto assure us that its rich and complex ontological and epistemological philosophy is verified also."
+                            },
+                            {
+                                "instruction": "What is the relationship between the philosophy of physics and the social sciences, according to Heisenberg?",
+                                "response": "When such empirically verified philosophy of the true in the natural sciences is identified with the criterion of the good and the just in the humanities and the social sciences, one has natural-law ethics and jurisprudence."
+                            },
+                            {
+                                "instruction": "What is the significance of combining the philosophy of physics with the philosophies of culture?",
+                                "response": "It is the coming together of this new philosophy of physics with the respective philosophies of culture of mankind that is the major event in today's and tomorrow's world."
+                            },
+                            {
+                                "instruction": "How does Heisenberg's philosophy of physics relate to the social consequences of physics?",
+                                "response": "At this point, the philosophy of physics in this book and its important reference to the social consequences of physics come together."
+                            }
+                            
+                        
+                    
+                
+            
+    
+]

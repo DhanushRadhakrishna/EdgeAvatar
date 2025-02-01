@@ -1,0 +1,6 @@
+2024-11-24 17:04:15,262 - INFO - Starting processing of capter3.txt
+2024-11-24 17:04:15,262 - ERROR - Error in process_file: [Errno 2] No such file or directory: 'capter3.txt'
+2024-11-24 17:04:15,262 - INFO - Processing completed. Generated 0 chunks
+2024-11-24 17:04:59,205 - INFO - Starting processing of capter3.txt
+2024-11-24 17:04:59,206 - ERROR - Error in process_file: [Errno 2] No such file or directory: 'capter3.txt'
+2024-11-24 17:04:59,206 - INFO - Processing completed. Generated 0 chunks

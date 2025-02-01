@@ -1,0 +1,787 @@
+There is a general awareness that contemporary physics has
+brought about an important revision in man's conception of the
+universe and his relation to it. The suggestion has been made
+that this revision pierces to the basis of man's fate and freedom,
+affecting even his conception of his capacity to control his own
+destiny. In no portion of physics does this suggestion show itself
+more pointedly than in the principle of indeterminacy of quan-
+tum mechanics. The author of this book is the discoverer of this
+principle. In fact, it usually bears his name. Hence, no one is
+more competent to pass judgment on what it means than he.
+In his previous book, The Physical Principles of the Quantum
+Theory* Heisenberg gave an exposition of the theoretical
+interpretation, experimental meaning and mathematical appa-
+ratus of quantum mechanics for professional physicists. Here
+he pursues this and other physical theories with respect to their
+philosophical implications and some of their likely social conse-
+quences for the layman. More specifically, he attempts here
+to raise and suggest answers to three questions: (1) What do
+the experimentally verified theories of contemporary physics
+affirm? (2) How do they permit or require man to think of
+himself in relation to his universe? (3) How is this new way of thinking, which is the creation of the modern West, going to
+affect other parts of the world?
+The third of these questions is dealt with briefly by Heisen-
+berg at the beginning and end of this inquiry. The brevity
+of his remarks should not lead the reader to pass lightly over
+their import. As he notes, whether we like it or not, modern
+ways are going to alter and in part destroy traditional customs
+and values. It is frequently assumed by native leaders of non-
+Western societies, and also often by their Western advisers, that
+the problem of introducing modern scientific instruments and
+ways into Asia, the Middle East and Africa is merely that of
+giving the native people their political independence and then
+providing them with the funds and the practical instruments.
+This facile assumption overlooks several things. First, the instru-
+ments of modern science derive from its theory and require a
+comprehension of that theory for their correct manufacture or
+effective use. Second, this theory in turn rests on philosophical,
+as well as physical, assumptions. When comprehended, these
+philosophical assumptions generate a personal and social men-
+tality and behavior quite different from, and at points
+incompatible with, the family, caste and tribally centered men-
+tality and values of the native Asian, Middle Eastern or African
+people. In short, one cannot bring in the instruments of modern
+physics without sooner or later introducing its philosophical
+mentality, and this mentality, as it captures the scientifically
+trained youth, upsets the old familial and tribal moral loyalties.
+If unnecessary emotional conflict and social demoralization are
+not to result, it is important that the youth understand what is
+happening to them. This means that they must see their ex-
+perience as the coming together of two different philosophical
+mentalities, that of their traditional culture and that of the new physics. Hence, the importance for everyone of understanding
+the philosophy of the new physics.
+But it may be asked, Isn't physics quite independent of
+philosophy? Hasn't modern physics become effective only by
+dropping philosophy? Clearly, Heisenberg answers both of these
+questions in the negative. Why is this the case?
+Newton left the impression that there were no assumptions in
+his physics which were not necessitated by the experimental
+data. This occurred when he suggested that he made no hypoth-
+eses and that he had deduced his basic concepts and laws from
+the experimental findings. Were this conception of the relation
+between the physicist's experimental observations and his theory
+correct, Newton's theory would never have required modifica-
+tion, nor could it ever have implied consequences which experi-
+ment does not confirm. Being implied by the facts, it would be
+as indubitable and final as they are.
+In 1885, however, an experiment performed by Michelson
+and Morley revealed a fact which should not exist were the
+theoretical assumptions of Newton the whole truth. This made
+it evident that the relation between the physicist's experimental
+facts and his theoretical assumptions is quite other than what
+Newton had led many modern physicists to suppose. When,
+some ten years later, experiments on radiation from black bodies
+enforced an additional reconstruction in Newton's way of think-
+ing about his subject matter, this conclusion became inescapable.
+Expressed positively, this means that the theory of physics is
+neither a mere description of experimental facts nor something
+deducible from such a description; instead, as Einstein has
+emphasized, the physical scientist only arrives at his theory by
+speculative means. The deduction in his method runs not from
+facts to the assumptions of the theory but from the assumed theory to the facts and the experimental data. Consequently,
+theories have to be proposed speculatively and pursued de-
+ductively with respect to their many consequences so that they
+can be put to indirect experimental tests. In short, any theory of
+physics makes more physical and philosophical assumptions than
+the facts alone give or imply. For this reason, any theory is sub-
+ject to further modification and reconstruction with the advent
+of new evidence that is incompatible, after the manner of the
+results of the Michelson-Morley experiment, with its basic as-
+sumptions.
+These assumptions, moreover, are philosophical in character.
+They may be ontological, i.e., referring to the subject matter of
+scientific knowledge which is independent of its relation to the
+perceiver; or they may be epistemological, i.e., referring to the
+relation of the scientist as experimenter and knower to the
+subject matter which he knows. Einstein's special and general
+theories of relativity modify the philosophy of modern physics
+in the first of these two respects by radically altering the philo-
+sophical theory of space and time and their relation to matter.
+Quantum mechanics, especially its Heisenberg principle of
+indeterminacy, has been notable for the change it has brought
+in the physicist's epistemological theory of the relation of the
+experimenter to the object of his scientific knowledge. Perhaps
+the most novel and important thesis of this book is its author's
+contention that quantum mechanics has brought the concept of
+potentiality back into physical science. This makes quantum
+theory as important for ontology as for epistemology. At this
+point, Heisenberg's philosophy of physics has an element in
+common with that of Whitehead.
+It is because of this introduction of potentiality into the
+subject matter of physics, as distinct from the epistemological predicament of physicists, that Einstein objected to quantum
+mechanics. He expressed this objection by saying: "God does
+not play dice." The point of this statement is that the game of
+dice rests on the laws of chance, and Einstein believed that the
+latter concept finds its scientific meaning solely in the epistemo-
+logical limitations of the finite knowing niind in its relation to
+the omnicomplete object of scientific knowledge and, hence, is
+misapplied when referred ontologically to that object itself. The
+object being per se all complete and in this sense omniscient,
+after the manner of God, the concept of chance or of probability
+is inappropriate for any scientific description of it.
+This book is important because it contains Heisenberg's
+answer to this criticism of his principle of indeterminacy
+and of quantum theory by Einstein and by others. In under-
+standing this answer two things must be kept in mind: ( 1 ) The
+aforementioned relation between the data of experimental
+physics and the concepts of its theory. (2) The difference be-
+tween the role of the concept of. probability in (a) Newton's
+mechanics and Einstein's theory of relativity and in (b) quan-
+tum mechanics. Upon(
+1 ),
+Einstein and Heisenberg, and rela-
+tivistic mechanics and quantum mechanics, are in agreement.
+It is only with respect to (2) that they differ. Yet the reason for
+Heisenberg's and the quantum physicist's difference from Ein-
+stein on (2) depends in considerable part on ( 1 ) which Einstein
+admits.
+(1) affirms that the experimental data of physics do not
+imply its theoretical concepts. From this it follows that the object
+of scientific knowledge is never known directly by observation or
+experimentation, but is only known by speculatively proposed
+theoretic construction or axiomatic postulation, tested only
+indirectly and experimentally via its deduced consequences. To find the object of scientific knowledge we must go, therefore,
+to its theoretical assumptions.
+When we do this for (a) Newton's or Einstein's mechanics
+and for (b) quantum mechanics, we discover that the concept
+of probability or chance enters into the definition of the state of
+a physical system, and, in this sense, into its subject matter, in
+quantum mechanics, but does not do so in Newton's mechanics
+or Einstein's theory of relativity. This undoubtedly is what
+Heisenberg means when he writes in this book that quantum
+theory has brought the concept of potentiality back into physical
+science. It is also, without question, what Einstein has in mind
+when he objects to quantum theory.
+Put more concretely, this difference between quantum me-
+chanics and previous physical theories may be expressed as
+follows: In Newton's and Einstein's theory, the state of any
+isolated mechanical system at a given moment of time is given
+precisely when only numbers specifying the position and mo-
+mentum of each mass in the system are empirically determined
+at that moment of time; no numbers referring to a probability
+are present. In quantum mechanics the interpretation of an
+observation of a system is a rather complicated procedure. The
+observation may consist in a single reading, the accuracy of
+which has to be discussed, or it may comprise a complicated set
+of data, such as the photograph of the water droplets in a cloud
+chamber; in any case, the result can be stated only in terms of a
+probability distribution concerning, for instance, the position or
+momentum of the particles of the system. The theory then pre-
+dicts the probability distribution for a future time. The theory is
+not experimentally verified when that future state arrives if
+merely the momentum or position numbers in a particular ob-
+servation lie within the predicted range. The same experiment with the same initial conditions must be repeated many times,
+and the values of position or momentum, which may be different
+in each observation, must similarly be found to be distributed ac-
+cording to the predicted probability distribution. In short, the
+crucial difference between quantum mechanics and Einstein's or
+Newton's mechanics centers in the definition of a mechanical
+system at any moment of time, and this difference is that quan-
+tum mechanics introduces the concept of probability into its
+definition of state and the mechanics of Newton and Einstein
+does not.
+This does not mean that probability had no place in Newton's
+or Einstein's mechanics. Its place was, however, solely in the
+theory of errors by means of which the accuracy of the Yes or
+No verification or nonconfirmation of the prediction of the
+theory was determined. Hence, the concept of probability and
+chance was restricted to the epistemological relation of the
+scientist in the verification of what he knows; it did not enter
+into the theoretical statement of what he knows. Thus, Einstein's
+dictum that "God does not play dice" was satisfied in his two
+theories of relativity and in Newton's mechanics.
+Is there any way of deciding between Einstein's contention
+and that of Heisenberg and other quantum theorists? Many
+answers have been given to this question. Some physicists and
+philosophers, emphasizing operational definitions, have argued
+that, since all physical theories, even classical ones, entail human
+error and uncertainties, there is nothing to be decided between
+Einstein and the quantum theorists. This, however, is (a) to
+overlook the presence of axiomatically constructed, constitutive
+theoretic definitions as well as theory-of-errors, operational
+definitions in scientific method and (b) to suppose that the
+concept of probability and the even more complex uncertainty relation enter into quantum mechanics only in the operational-
+definitional sense. Heisenberg shows that the latter supposition
+.isjalse.
+Other scientists and philosophers, going to the opposite ex-
+treme, have argued that, merely because there is uncertainty in
+predicting certain phenomena, this constitutes no argument
+whatever for the thesis that these phenomena are not completely
+determined. This argument combines the statical problem of
+defining the state of a mechanical system at a given time with
+the dynamical or causal problem of predicting changes in the
+state of the system through time. But the concept of probability
+in quantum theory enters only into its statics, i.e., its theoretical
+definition of state. The reader will find it wise, therefore, to keep
+distinct these two components, i.e., the statical theoretical
+definition-of-state component and the dynamic, or causal, theo-
+retical change-of-state-through-time component. With respect to
+the former, the concept of probability and the attendant un-
+certainty enter theoretically and in principle; they do not refer
+merely to the operational and epistemological uncertainties and
+errors, arising from the finiteness of, and inaccuracies in, human
+behavior, that are common to any scientific theory and any
+experimentation whatsoever.
+But, why, it may be asked, should the concept of probability
+be introduced into the theoretic definition of the state of a me-
+chanical system at any statical moment t
+1 in principle? In mak-
+ing such a theoretical construct by axiomatic postulation, do not
+Heisenberg and quantum theoreticians generally beg the ques-
+tion at issue between themselves and Einstein? This book makes
+it clear that the answer to these questions is as follows: The
+reason for the procedure of quantum mechanics is thesis (1)
+above, which Einstein himself also accepts. Thesis ( 1 ) is that we know the object of scientific knowledge
+only by the speculative means of axiomatic theoretic construc-
+tion or postulation; Newton's suggestion that the physicist can
+deduce our theoretical concepts from the experimental data
+being false. It follows that there is no a priori or empirical mean-
+ing for affirming that the object of scientific knowledge, or, more
+specifically, the state of a mechanical system at a given time t
+1
+,
+must be defined in a particular way. The sole criterion is, which
+set of theoretic assumptions concerning the subject matter of
+mechanics when pursued to their deduced experimental conse-
+quences is confirmed by the experimental data?
+Now, it happens that when we theoretically and in principle
+define the state of a mechanical system for subatomic phe-
+nomena in terms solely of numbers referring to position and
+momentum, as Einstein would have us do, and deduce the
+consequences for radiation from black bodies, this theoretical
+assumption concerning the state of a mechanical system and the
+subject matter of atomic physics is shown to be false by experi-
+mental evidence. The experimental facts simply are not what the
+theory calls for. When, however, the traditional theory is modi-
+fied with the introduction of Planck's constant and the addition
+in principle of the second set of numbers referring to the proba-
+bility that the attached position-momentum numbers will be
+found, from which the uncertainty principle follows, the experi-
+mental data confirm the new theoretical concepts and principles.
+In short, the situation in quantum mechanics with respect to
+experiments on black-body radiation is identical with that faced
+by Einstein with respect to the Michelson-Morley experiment. In
+both cases, only by introducing the new theoretical assumption
+in principle is physical theory brought into accord with the fex-
+perimental facts. Thus, to assert that, notwithstanding quantum mechanics, the positions and momenta of subatomic masses are
+"really" sharply located in space and time as designated by one
+pair of numbers only and, hence, completely deterministic caus-
+ally, as Einstein and the aforementioned philosophers of science
+would have one do, is to affirm a theory concerning the subject
+matter of physical knowledge which experiments on black-body
+radiation have shown to be false in the sense that a deductive
+experimental consequence of this theory is not confirmed.
+It does not follow, of course, that some new theory compatible
+with the foregoing experimental facts might not be discovered in
+which the concept of probability does not enter in principle into
+its definition of state. Professor Norbert Wiener, for example,
+believes that he has clues to the direction such a theory might
+take. It would, however, have to reject a definition of state in
+terms of the four space-time dimensions of Einstein's theory and
+would, therefore, be incompatible with Einstein's thesis on other
+grounds. Certainly, one cannot rule out such a possibility.
+Nevertheless, until such an alternative theory is presented, any-
+one, who does not claim to possess some a priori or private
+source of information concerning what the object of scientific
+knowledge must be, has no alternative but to accept the defini-
+tion of state of quantum theory and to affirm with the author of
+this book that it restores the concept of potentiality to the object
+of modern scientific knowledge. Experiments on black-body
+radiation require one to conclude that God plays dice.
+What of the status of causality and determinism in quantum
+mechanics? Probably the interest of the layman and the human-
+ist in this book depends most on its answer to this question.
+If this answer is to be understood, the reader must pay par-
+ticular attention to Heisenberg's description of (a) the afore-
+mentioned definition of state by recourse to the concept of probability and (b) the Schrodinger time-equation. The reader
+must also make sure, and this is the most difficult task of all, that
+the meaning of the words "causality" and "determinism" in his
+mind when he asks the above question is identical with the
+meaning these words have in Heisenberg's mind when he speci-
+fies the answer. Otherwise, Heisenberg will be answering a
+different question from the one the reader is asking and a com-
+plete misunderstanding upon the reader's part will occur.
+The situation is further complicated by the fact that modern
+physics permits the concept of causality to have two different,
+scientifically precise meanings, the one stronger than the other,
+and there is no agreement among physicists about which one of
+these two meanings the word "causality" is to be used to desig-
+nate. Hence, some physicists and philosophers of science use the
+word to designate the stronger of the two meanings. There is
+evidence, at times at least, that this is Professor Heisenberg*s
+usage in this book. Other physicists and philosophers, including
+the writer of this Introduction, use the word "causality" to
+designate the weaker of the two meanings and the word "de-
+terminism" to designate the stronger meaning. When the former
+usage is followed, the words "causality" and "determinism"
+become synonymous. When the second usage is followed, every
+deterministic system is a causal system, but not every causal
+system is deterministic.
+Great confusion has entered into previous discussion of this
+topic because frequently neither the person who asks the ques-
+tion nor the physicist who has answered it has been careful to
+specify in either question or answer whether he is using the word
+"causality" in its weaker or in its stronger modern scientific
+meaning. If one asks "Does causality hold in quantum me-
+chanics?" not specifying whether one is asking about causality in its stronger or in its weaker sense, one then gets apparently
+contradictory answers from equally competent physicists. One
+physicist, taking the word "causality" in its stronger sense, quite
+correctly answers "No." The other physicist, taking "causality"
+in its weaker sense, equally correctly answers "Yes." Naturally,
+the impression has arisen that quantum mechanics is not specific
+about what the answer is. Nevertheless, this impression is er-
+roneous. The answer of quantum mechanics becomes unequiv-
+ocal the moment one makes the question and the answer
+unambiguous by specifying which meaning of "causality" one is
+talking about.
+It is important, therefore, to become clear about different
+possible meanings of the word "causality.'
+5 Let us begin with the
+layman's common-sense usage of the word "cause33 and then
+move to the more exact meanings in modern physics, considering
+the meaning in Aristotle's physics on the way.
+One may say "The stone hit the window and caused the glass
+to break/3 In this use of "causality" it is thought of as a relation
+between objects, i.e., between the stone and the windowpane.
+The scientist expresses the same thing in a different way. He
+describes the foregoing set of events in terms of the state of the
+stone and the windowpane at the earlier time t
+1 when the stone
+and the windowpane were separated and the state of this same
+system of two objects at the later time t
+2 when the stone and the
+windowpane collided. Consequently, whereas the layman tends
+to think of causality as a relation between objects, the scientist
+thinks of it as a relation between different states of the same
+object or the same system of objects at different times.
+This is why, in order to determine what quantum mechanics
+says about causality, one must pay attention to two things: ( 1 )
+The state-function which defines the state of any physical system at any specific time t. (2) The Schrodinger time-equation which
+relates the state of the physical system at the earlier time t
+1
+to its
+different state at any specifiable later time t
+2
+. What Heisenberg
+says about (
+1 ) and (2) must, therefore, be read with meticulous
+care.
+It will help to understand what quantum mechanics says
+about the relation between the states of a given physical object,
+or system of physical objects, at different times if we consider the
+possible properties that this relation might have. The weakest
+possible case would be that of mere temporal succession with no
+necessary connection whatever and with not even a probability,
+however small, that the specifiable initial state will be followed
+in time by a specifiable future state. Hume gives us reasons for
+believing that the relation between the sensed states of im-
+mediately sensed natural phenomena is of this character. Cer-
+tainly, as he pointed out, one does not sense any relation of
+necessary connection. Nor does one directly sense probability. All
+that sensation gives us with respect to the successive states of any
+phenomenon is the mere relation of temporal succession.
+This point is of great importance. It means that one can
+arrive at a causal theory in any science or in common-sense
+knowledge, or even at a probability theory, of the relation be-
+tween the successive states of any object or system, only by
+speculative means and axiomatically constructed, deductively
+formulated scientific and philosophical theory which is tested
+not directly against the sensed and experimental data but only
+indirectly by way of its deductive consequences.
+A second possibility with respect to the character of the rela-
+tion between the states of any physical system at different times
+is that the relation is a necessary one, but that one can know
+what this necessary connection is only by knowing the future state. The latter knowledge of the future state may be obtained
+either by waiting until it arrives or by having seen the future or
+final state of similar systems in the past. When such is the case,
+causality is teleological. Changes of the system with time are
+determined by the final state or goal of the system. The physical
+system which is an acorn in the earlier state t
+1 and an oak tree
+2
+in the later state t
+is an example. The connection between these
+two states seems to be a necessary one. Acorns never change into
+maple trees or into elephants. They change only into oaks. Yet,
+given the properties of this physical system in the acorn state of
+1
+the earlier time t
+,
+no scientist has as yet been able to deduce
+the properties of the oak tree which the system will have at the
+2
+later time t
+. Aristotelian physics affirmed that all causal rela-
+tions are teleological.
+Another possibility is that the relation between the states of
+any object, or any system of objects, at different times is a
+relation of necessary connection such that, given knowledge of
+the initial state of the system, assuming isolation, its future state
+can be deduced. Stated in more technical mathematical lan-
+guage, this means that there exists an indirectly verified, axio-
+matically constructed theory whose postulates (1) specify a
+state-function, the independent variables of which completely
+define the state of the system at any specific instant of time, and
+(2) provide a time-equation relating the numerical empirical
+values of the independent variables of this function at any earlier
+1
+time t
+to their numerical empirical values at any specific later
+time t
+2 in such a way that by introducing the operationally de-
+1
+termined t
+set of numbers into the time-equation the future t
+2
+numbers can be deduced by merely solving the equation. When
+this is the case, the temporal relation between states is said to
+exemplify mechanical causation. It is to be noted that this definition of mechanical causality
+leaves open the question of what independent variables are re-
+quired to define the state of the system at any given time. Hence,
+at least two possibilities arise: (a) the concept of probability
+may be used to define the state of the system or (b) it may not
+be so used. When (b) is the case no independent variables re-
+ferring to probabilities appear in the state-function and the
+stronger type of mechanical causality is present. When (a) is
+the case independent variables referring to probabilities, as well
+as to other properties such as position and momentum, appear
+in the state-function and only the weaker type of mechanical
+causation occurs. If the reader keeps these two meanings of me-
+chanical causation in mind and makes sure which meaning
+Heisenberg is referring to in any particular sentence of this book,
+he should be able to get its answer to the question concerning
+the status of causality in modern physics.
+What of determinism? Again, there is no agreed-upon con-
+vention among physicists and philosophers of science about how
+this word is to be used. It is in accord with the common-sense
+usage to identify it with the strongest possible causality. Let us,
+then, use the word "determinism" to denote only the stronger
+type of mechanical causation. Then I believe the careful reader
+of this book will get the following answer to his question: In
+Newtonian, Einsteinian and quantum mechanics, mechanical,
+rather than teleological, causality holds. This is why quantum
+physics is called quantum mechanics, rather than quantum
+teleologies. But, whereas causality in Newton's and Einstein's
+physics is of the stronger type and, hence, both mechanical and
+deterministic, in quantum mechanics it is of the weaker causal
+type and, hence, mechanical but not deterministic. From the
+latter fact it follows that if anywhere in this book Heisenberg uses the words "mechanical causality" in their stronger, de-
+terministic meaning and the question be asked "Does me-
+chanical causation in this stronger meaning hold in quantum
+mechanics?" then the answer has to be "No,"
+The situation is even more complicated, as the reader will
+find, than even these introductory distinctions between the dif-
+ferent types of causation indicate. It is to be hoped, however,
+that this focusing of attention upon these different meanings will
+enable the reader to find his way through this exceptionally im-
+portant book more easily than would otherwise be the case.
+These distinctions should suffice, also, to enable one to grasp
+the tremendous philosophical significance of the introduction of
+the weaker type of mechanical causation into modern physics,
+which has occurred in quantum mechanics. Its significance con-
+sists in reconciling the concept of objective, and in this sense on-
+tological, potentiality of Aristotelian physics with the concept of
+mechanical causation of modern physics.
+It would be an error, therefore, if the reader, from Heisen-
+berg's emphasis upon the presence in quantum mechanics
+of something analogous to Aristotle's concept of potentiality,
+concluded that contemporary physics has taken us back to
+Aristotle's physics and ontology. It would be an equal error con-
+versely to conclude, because mechanical causation in its weaker
+meaning still holds in quantum mechanics, that all is the same
+now in modern physics with respect to its causality and ontology
+as was the case before quantum mechanics came into being.
+What has occurred is that in quantum theory contemporary
+man has moved on beyond the classical medieval and the
+modern world to a new physics and philosophy which combines
+consistently some of the basic causal and ontological assumptions
+of each. Here, let it be recalled, we use the word "ontological" to denote any experimentally verified concept of scientific theory
+which refers to the object of scientific knowledge rather than
+merely to the epistemological relation of the scientist as knower
+to the object which he knows. Such an experimentally verified
+philosophical synthesis of ontological potentiality with ontolog-
+ical mechanical causality, in the weaker meaning of the latter
+concept, occurred when physicists found it impossible to account
+theoretically for the Compton effect and the results of experiment
+on black-body radiation unless they extended the concept of
+probability from its Newtonian and Einsteinian merely epis-
+temological, theory-of-errors role in specifying when their theory
+is or is not experimentally confirmed to the ontological role,
+specified in principle in the theory's postulates, of characterizing
+the object of scientific knowledge itself.
+Need one wonder that Heisenberg went through the sub-
+jective emotional experiences described in this book before he
+became reconciled to the necessity, imposed by both experi-
+mental and mathematical considerations, of modifying the phil-
+osophical and scientific beliefs of both medieval and modern
+man in so deep-going a manner. Those interested in a firsthand
+description of the human spirit in one of its most creative
+moments will want to read this book because of this factor
+alone. The courage which it took to make this step away from
+the unqualified determinism of classical modern physics may
+be appreciated if one recalls that even such a daring, creative
+spirit as Einstein balked. He could not allow God to play dice;
+there could not be potentiality in the object of scientific knowl-
+edge, as the weaker form of mechanical causality in quantum
+mechanics allows.
+Before one concludes, however, that God has become a com-
+plete gambler and that potentiality is in all objects, certain limi-tations which quantum mechanics places on the application of
+its weaker form of mechanical causation must be noted. To
+appreciate these qualifications the reader must note what this
+book says about (1) the Compton effect, (2) Planck's constant
+h, and (3) the uncertainty principle which is defined in terms
+of Planck's constant.
+This constant h is a number referring to the quantum of
+action of any object or system of objects. This quantum, which
+extends atomicity from matter and electricity to light and even
+to energy itself, is very small. When the quantum numbers of the
+system being observed are small, as is the case with subatomic
+phenomena, then the uncertainty specified by the Heisenberg
+uncertainty principle of the positions and momenta of the masses
+of the system becomes significant. Then, also, the probability
+numbers associated with the position-momentum numbers in the
+state-function become significant. When, however, the quantum
+numbers of the system are large, then the quantitative amount
+of uncertainty specified by the Heisenberg principle becomes in-
+significant and the probability numbers in the state-function can
+be neglected. Such is the case with gross common-sense objects.
+At this point quantum mechanics with its basically weaker type
+of causality gives rise, as a special case of itself, to Newtonian
+and Einsteinian mechanics with their stronger type of causality
+and determinism. Consequently, for human beings considered
+merely as gross common-sense objects the stronger type of caus-
+ality holds and, hence, determinism reigns also.
+Nevertheless, subatomic phenomena are scientifically signifi-
+cant in man. To this extent, at least, the causality governing him
+is of the weaker type, and he embodies both mechanical fate and
+potentiality. There are scientific reasons for believing that this
+occurs even in heredity. Any reader who wants to pursue this topic beyond the pages of this book should turn to What Is
+*
+Life?
+by Professor Erwin Schrodinger, the physicist after
+whom the time-equation in quantum mechanics is named. Un-
+doubtedly, potentiality and the weaker form of causality hold
+also for countless other characteristics of human beings, particu-
+larly for those cortical neural phenomena in man that are the
+epistemic correlates of directly introspected human ideas and
+purposes.
+If the latter possibility is the case, the solution of a baffling
+scientific, philosophical and even moral problem may be at
+hand. This problem is: How is the mechanical causation, even
+in its weaker form, of quantum mechanics to be reconciled with
+the tdeological causation patently present in the moral, political
+and legal purposes of man and in the teleological causal de-
+termination of his bodily behavior, in part at least, by these pur-
+poses? In short, how is the philosophy of physics expounded in
+this book by Heisenberg to be reconciled with moral, political
+and legal science and philosophy?
+It may help the reader to appreciate why this book must be
+mastered before these larger questions can be correctly under-
+stood or effectively answered if very brief reference is made here
+to some articles which relate its theory of physical causation to
+the wider relation between mechanism and teleology in the
+humanities and the social sciences. The relevant articles are (a)
+by Professors Rosenblueth, Wiener and Bigdow in the journal
+of The Philosophy of Science for January, 1943
+; (b) by Doctors
+McCulloch and Pitts in The Bulletin of Mathematical Bio-
+physics, Volume 5, 1943, and Volume 9, 1947; and (c) Chapter
+XIX of Ideological Differences and World Order, edited by the
+writer of this Introduction and published by the Yale University Press in 1949. If read after this book, (a) will show how teleo-
+logical causality arises as a special case of the merchanical
+causality described by Heisenberg here. Similarly, (b) will pro-
+vide a physical theory of the neurological correlates of intro-
+spected ideas, expressed in terms of the teleologically mechanical
+causality of (a), thereby giving an explanation of how ideas
+can have a causally significant effect on the behavior of men.
+Likewise, (c) will show how the ideas and purposes of moral,
+political and legal man relate, by way of (b) and (a), to the
+theory of physical potentiality and mechanical causality so
+thoroughly described by Heisenberg in this book.
+It remains to call attention to what Professor Heisenberg says
+about Bohr's principle of complementarity. This principle plays
+a great role in the interpretation of quantum theory by "the
+Copenhagen School" to which Bohr and Heisenberg belong.
+Some students of quantum mechanics, such as Margenau in his
+book The Nature of Physical Reality,* are inclined to the con-
+clusion that quantum mechanics requires merely its definition of
+state, its Schrodinger time-equation and those other of its
+mathematical postulates which suffice to ensure, as noted above,
+that Einsteinian and Newtonian mechanics corne out of quan-
+tum mechanics as one of its special cases. According to the
+latter thesis, the principle of complementarity arises from the
+failure to keep the stronger and weaker form of mechanical
+causality continuously in mind, with the resultant attribution of
+the stronger form to those portions of quantum mechanics where
+only the weaker form is involved. When this happens, the
+principle of complementarity has to be introduced to avoid contradiction. If, however, one avoids the foregoing practice,
+the principle of complementarity becomes, if not unnecessary,
+at least of a form such that one avoids the danger, noted by
+Margenau
+* and appreciated by Bohr, of giving pseudo solu-
+tions to physical and philosophical problems by playing fast and
+loose with the law of contradiction, in the name of the principle
+of complementarity.
+By its use the qualifications that had to be put on both the
+particle-picture common-sense language of atomic physics and
+its common-sense wave-picture language were brought to-
+gether. But once having formulated the result with axiomatically
+constructed mathematical exactitude, any further use of it is
+merely a superficial convenience when, leaving aside the exact
+and essential mathematical assumptions of quantum mechanics,
+one indulges in the common-sense language and images of
+waves and particles.
+It has been necessary to go into the different interpretations
+of the principle of complementarity in order to enable the
+reader to pass an informed judgment concerning what Heisen-
+berg says in this book about the common-sense and Cartesian
+concepts of material and mental substances. This is the case
+because his conclusion concerning Descartes results from his
+generalization of the principle of complementarity beyond phys-
+ics, first, to the relation between common-sense biological con-
+cepts and mathematical physical concepts and, second, to the
+body-mind problem. The result of this generalization is that
+the Cartesian theory of mental substances comes off very much
+better in this book, as does the concept of substance generally,
+than is the case in any other book on the philosophy of con-
+temporary physics which this writer knows. Whitehead, for example, concluded that contemporary
+science and philosophy find no place for, and have no need of,
+the concept of substance. Neutral monists such as Lord Russell
+and logical positivists such as Professor Carnap agree.
+Generally speaking, Heisenberg argues that there is no
+compelling reason to throw away any of the common-sense
+concepts of either biology or mathematical physics, after one
+knows the refined concepts that lead to the complete clarifica-
+tion of the problems in atomic physics. Because the latter clari-
+fication is complete, it is relevant only to a very limited range
+of problems within science and cannot enable us to avoid using
+many concepts at other places that would not stand critical
+analysis of the type carried out in quantum theory. Since the
+ideal of complete clarification cannot be achieved and it is
+important that we should not be deceived about this point
+one may indulge in the usage of common-sense concepts if it is
+done with sufficient care and caution. In this respect, certainly,
+complementarity is a very useful scientific concept.
+In any event, two things seem clear and make what Heisen-
+berg says on these matters exceedingly important. First, the
+principle of complementarity and the present validity of the
+Cartesian and common-sense concepts of body and mind stand
+and fall together. Second, it may be that both these notions are
+merely convenient stepladders which should now be, or must
+eventually be, thrown away. Even so, in the case of the theory of
+mind at least, the stepladder will have to remain until by its use
+we find the more linguistically exact and empirically satis-
+factory theory that will permit us to throw the Cartesian lan-
+guage away. To be sure, piecemeal theories of mind which do
+not appeal to the notion of substance now exist, but none of
+their authors, unless it be Whitehead, has shown how the Iangauge of this piecemeal theory can be brought into com-
+mensurate and compatible relationship with the scientific
+language of the other facts of human knowledge. It is likely,
+therefore, that anyone, whether he be a professional physicist or
+philosopher or the lay reader, who may think he knows better
+than Heisenberg on these important matters, runs the grave risk
+of supposing he has a scientific theory of mind in its relation to
+body, when in fact this is not the case.
+Up to this point we have directed attention, with but two ex-
+ceptions, to what the philosophy of contemporary physics has to
+say about the object of scientific knowledge qua object, inde-
+pendent of its relation to the scientist as knower. In short, we
+have been concerned with its ontology. This philosophy also has
+its epistemological component. This component falls into three
+parts: (1) The relation between (a) the directly observed data
+given to the physicist as inductive knower in his observations or
+his experiments and (b) the speculatively proposed, indirectly
+verified, axiomatically constructed postulates of his theory. The
+latter term (b) defines the objects of scientific knowledge qua
+object and, hence, gives the ontology. The relation between (a)
+and (b) defines one factor in the epistemology. (2) The role of
+the concept of probability in the theory of errors, by means of
+which the physicist defines the criterion for judging how far his
+experimental findings can depart, due to errors of human ex-
+perimentation, from the deduced consequences of the postulates
+of the theory and still be regarded as confirming the theory. (3 )
+The effect of the experiment being performed upon the object
+being known. What Heisenberg says about the first and second
+of these three epistemological factors in contemporary physics
+has already been emphasized in this Introduction. It remains to
+direct the reader's attention to what he says about item (3 ). In modern physical theory, previous to quantum mechanics,
+(3) played no role whatever. Hence, the epistemology of
+modern physics was then completely specified by ( 1 ) and ( 2 )
+alone. In quantum mechanics, however, (3) (as well as (1)
+and (2)) becomes very important. The very act of observing
+alters the object being observed when its quantum numbers are
+small.
+From this fact Heisenberg draws a very important conclusion
+concerning the relation between the object, the observing
+physicist, and the rest of the universe. This conclusion can be
+appreciated if attention is directed to the following key points.
+It may be recalled that in some of the definitions of mechanical
+causality given earlier in this Introduction, the qualifying words
+"for an isolated system" were added; elsewhere it was implicit.
+This qualifying condition can be satisfied in principle in New-
+tonian and Einsteinian mechanics, and also in practice by mak-
+ing more and more careful observations and refinements in
+one's experimental instruments. The introduction of the concept
+of probability into the definition of state of the object of scien-
+tific knowledge in quantum mechanics rules out, however, in
+principle, and not merely in practice due to the imperfections of
+human observation and instruments, the satisfying of the condi-
+tion that the object of the physicist's knowledge is an isolated
+system. Heisenberg shows also that the including of the experi-
+mental apparatus and even of the eye of the observing scientist
+in the physical system which is the object of the knower's knowl-
+edge does not help, since, if quantum mechanics be correct, the
+states of all objects have to be defined in principle by recourse to
+the concept of probability. Consequently, only if the whole
+universe is included in the object of scientific knowledge can
+the qualifying condition "for an isolated system" be satisfied for even the weaker form of mechanical causation. Clearly, the
+philosophy of contemporary physics is shown by this book to be
+as novel in its epistemology as it is in its ontology. Indeed, it is
+from the originality of its ontology the consistent unification
+of potentiality and mechanical causality in its weaker form
+that the novelty of its epistemology arises.
+Unquestionably, one other thing is clear. An analysis of the
+specific experimentally verified theories of modern physics with
+respect to what they say about the object of human knowledge
+and its relation to the human knower exhibits a very rich and
+complex ontological and epistemological philosophy which is
+an essential part of the scientific theory and method itself.
+Hence, physics is neither epistemologically nor ontologically
+neutral. Deny any one of the epistemological assumptions of the
+physicist's theory and there is no scientific method for testing
+whether what the theory says about the physical object is true,
+in the sense of being empirically confirmed. Deny any one of the
+ontological assumptions and there is not enough content in the
+axiomatically constructed mathematical postulates of the physi-
+cist's theory to permit the deduction of the experimental facts
+which it is introduced to predict, co-ordinate consistently and
+explain. Hence, to the extent that experimental physicists assure
+us that their theory of contemporary physics is indirectly and
+experimentally verified, they ipso facto assure us that its rich
+and complex ontological and epistemological philosophy is
+verified also.
+When such empirically verified philosophy of the true in the
+natural sciences is identified with the criterion of the good and
+the just in the humanities and the social sciences, one has
+natural-law ethics and jurisprudence. In other words, one has a
+scientifically meaningful cognitive criterion and method for judging both the verbal, personal and social norms of the posi-
+tive law and the living ethos embodied in the customs, habits
+and traditional cultural institutions of the de facto peoples and
+cultures of the world. It is the coming together of this new
+philosophy of physics with the respective philosophies of culture
+of mankind that is the major event in today's and tomorrow's
+world. At this point, the philosophy of physics in this book and
+its important reference to the social consequences of physics
+come together.
+The chapters of this book have been read as Gifford Lectures
+at the University of St. Andrews during the winter term 1955
+1956. According to the will of their founder the Gifford Lectures
+should "freely discuss all questions about man's conceptions of
+God or the Infinite, their origin, nature, and truth, whether he
+can have any such conceptions, whether God is under any or
+what limitations and so on." The lectures of Heisenberg do not
+attempt to reach these most general and most difficult problems.
+But they try to go far beyond the limited scope of a special
+science into the wide field of those general human problems that
+have been raised by the enormous recent development and the
+far-reaching practical applications of natural science.

@@ -1,0 +1,3 @@
+I am fine tuning Meta's Llama 3.2 1B model. I have the dataset in text from books and research papers. 
+I want a dataset in json file format with the following format { "instruction": "An instruction" "response":" The text from the dataset that will be the result of the instruction"}
+I want you to read the data I give split it based on the instruction and give it in the above format. Please try to maintain the originality of the data I provide. Do not summarize it too much.
