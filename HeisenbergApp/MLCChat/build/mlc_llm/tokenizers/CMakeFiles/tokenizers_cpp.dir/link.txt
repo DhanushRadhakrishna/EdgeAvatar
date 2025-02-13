@@ -1,0 +1,2 @@
+/Users/dhanushr/Library/Android/sdk/ndk/28.0.12916984/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar qc libtokenizers_cpp.a CMakeFiles/tokenizer_cpp_objs.dir/src/sentencepiece_tokenizer.cc.o CMakeFiles/tokenizer_cpp_objs.dir/src/huggingface_tokenizer.cc.o CMakeFiles/tokenizer_cpp_objs.dir/src/rwkv_world_tokenizer.cc.o
+/Users/dhanushr/Library/Android/sdk/ndk/28.0.12916984/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib libtokenizers_cpp.a

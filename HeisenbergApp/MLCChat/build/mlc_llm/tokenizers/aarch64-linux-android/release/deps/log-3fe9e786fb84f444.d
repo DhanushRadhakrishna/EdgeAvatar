@@ -1,0 +1,10 @@
+/Users/dhanushr/Local/EdgeAvatar/HeisenbergApp/mlc-llm/android/MLCChat/build/mlc_llm/tokenizers/aarch64-linux-android/release/deps/liblog-3fe9e786fb84f444.rmeta: /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs
+
+/Users/dhanushr/Local/EdgeAvatar/HeisenbergApp/mlc-llm/android/MLCChat/build/mlc_llm/tokenizers/aarch64-linux-android/release/deps/liblog-3fe9e786fb84f444.rlib: /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs
+
+/Users/dhanushr/Local/EdgeAvatar/HeisenbergApp/mlc-llm/android/MLCChat/build/mlc_llm/tokenizers/aarch64-linux-android/release/deps/log-3fe9e786fb84f444.d: /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs /Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs
+
+/Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs:
+/Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs:
+/Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs:
+/Users/dhanushr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs:

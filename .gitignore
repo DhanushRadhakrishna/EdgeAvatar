@@ -1,1 +1,6 @@
 ModelFineTuning/avatar/
+/HeisenbergApp/mlc-llm
+/HeisenbergApp/MLCChat/dist/prebuilt/Llama-3-1B-Heisenberg-q4f16_1-android
+/HeisenbergApp/MLCChat/dist/prebuilt/Llama-3-1B-Heisenberg-q4f16_1-androidm
+HeisenbergApp/MLCChat/app/release/app-release.apk
+HeisenbergApp/MLCChat/app/debug/app-debug.apk
